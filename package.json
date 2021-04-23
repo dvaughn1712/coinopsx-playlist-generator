@@ -1,0 +1,16 @@
+{
+  "name": "playlist-generator",
+  "version": "1.0.0",
+  "description": "Quick Typescript Application to generate CoinOpsX playlists",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node generator.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.41",
+    "lodash": "^4.17.21",
+    "ts-node": "^9.1.1"
+  }
+}
